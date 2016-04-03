@@ -1,0 +1,5 @@
+---
+git_base: 'git@github.com:'
+namespace: username
+branch: modulesync
+message: "Update from username's modulesync"
